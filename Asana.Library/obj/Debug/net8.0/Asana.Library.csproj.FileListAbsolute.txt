@@ -1,0 +1,13 @@
+C:\Asana\Asana.Library\bin\Debug\net8.0\Asana.Library.deps.json
+C:\Asana\Asana.Library\bin\Debug\net8.0\Asana.Library.dll
+C:\Asana\Asana.Library\bin\Debug\net8.0\Asana.Library.pdb
+C:\Asana\Asana.Library\obj\Debug\net8.0\Asana.Library.csproj.AssemblyReference.cache
+C:\Asana\Asana.Library\obj\Debug\net8.0\Asana.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asana\Asana.Library\obj\Debug\net8.0\Asana.Library.AssemblyInfoInputs.cache
+C:\Asana\Asana.Library\obj\Debug\net8.0\Asana.Library.AssemblyInfo.cs
+C:\Asana\Asana.Library\obj\Debug\net8.0\Asana.Library.csproj.CoreCompileInputs.cache
+C:\Asana\Asana.Library\obj\Debug\net8.0\Asana.Library.sourcelink.json
+C:\Asana\Asana.Library\obj\Debug\net8.0\Asana.Library.dll
+C:\Asana\Asana.Library\obj\Debug\net8.0\refint\Asana.Library.dll
+C:\Asana\Asana.Library\obj\Debug\net8.0\Asana.Library.pdb
+C:\Asana\Asana.Library\obj\Debug\net8.0\ref\Asana.Library.dll
